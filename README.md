@@ -157,7 +157,7 @@ brew install gcc make sdl2
 
 **Build and run**:
 ```bash
-git clone https://github.com/hyperactive-panda111/3d-software-renderer.git
+git clone https://github.com/yawamomensah/3d-software-renderer.git
 cd 3d-software-renderer
 make
 make run
@@ -187,3 +187,4 @@ make run
 ## References
 
 - Scratchapixel — *The Perspective Projection Matrix* and *Rasterization: a Practical Implementation*
+- Mathematical Structures for Computer Graphics - Janke
