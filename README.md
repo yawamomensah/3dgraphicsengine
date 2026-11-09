@@ -11,11 +11,11 @@ Every stage of the rendering pipeline is implemented by hand — no graphics API
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="assets/wireframe-plane.gif" alt="Wireframe of plane model">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg5ZnFvbmc5bWl5Zm80eTB1aXM3ODIxMTBkanh6ajI5YXBiY2ZkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nLr7jMBivNf5VcECJl/giphy.gif" alt="Wireframe[...]">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW14b3V4OWRuYzJ5bHZ2bzBvdXU3bWhyeTB3ZzR0cjlzOGRmZWN1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O2IgnbVemdm7nsvSGi/giphy.gif" alt="Flat Shad[...]">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqMWM2NGF2dmN0bTNzZmU5dWYwcWlsaG9qMzZzbmJiN3dpaDZpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HhhSdDA9dUYijGsrrS/giphy.gif" alt="Flat Shad[...]">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJxa2Rtc3o4cWl3dG0zaXhwamJyZ2ViaXZkcnphdGttNG4xd3QyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4cjPaXFR6GZCXMkJih/giphy.gif" alt="Textured [...]">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBlZ2s4d3I5YjR0emhkNmk3bnU1d24xaTcya3E3Y2Nicjk3anc0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6YA3UVMR0PegQwpfEo/giphy.gif" alt="Textured [...]">
+  <img src="assets/wireframe-crab.gif" alt="Wireframe of crab model">
+  <img src="assets/flat-plane.gif" alt="Plane model in flat shading mode">
+  <img src="assets/flat-crab.gif" alt="Crab model in flat shading mode">
+  <img src="assets/textured-plane.gif" alt="Plane model in textured mode">
+  <img src="assets/textured-crab.gif" alt="Crab model in textured mode">
 </div>
 
 ---
